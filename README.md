@@ -1,36 +1,55 @@
-# Royal Food Delivery App
+# 🌟 Royal Restaurant Website
 
-A **modern, clean, and responsive** Food Delivery website UI built with **HTML, CSS, and JavaScript**. Designed to showcase a professional food ordering interface with a focus on aesthetics, responsiveness, and user-friendly navigation.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
----
+**Royal Restaurant Website** is a modern web interface built using **HTML, CSS, and JavaScript**, designed to showcase a **restaurant’s online presence** with a clean and visually appealing layout.
 
-## 🌟 Features
-
-- **Full-page Home Image:** Eye-catching hero section with heading, paragraph, and CTA button overlay.
-- **Our Speciality:** Cards highlighting chef skills, food quality, online ordering, and 24/7 service.
-- **About Us:** Left-side image with right-side glowing and italicized content for a modern look.
-- **Services:** Grid layout with 4 food item cards (2 per row on smaller screens), consistent size.
-- **Client Reviews:** 3 equally sized review cards to display testimonials.
-- **Contact Section:** Left-side form for bookings/messages, right-side embedded Google Map.
-- **Footer:** Social links and copyright statement.
+💡 This project focuses on **UI design, layout structuring, and user experience**, inspired by real-world restaurant websites.
 
 ---
 
-## 🎨 Color Palette & Design
+## 🌐 Live Demo
 
-- Background: Light gray / white (#fdfdfd)  
-- Accent: Bright red (#ff4d4d)  
-- Text: Dark gray (#333)  
-- Modern clean fonts with rounded buttons and subtle shadows for a professional look.
+[🍽️ View Restaurant Website Live](https://royal-fooddelivery-app.vercel.app/)
 
 ---
 
-## 💻 Technologies Used
+## 🌈 Tech Skills
 
-- **HTML5** – Structure and content  
-- **CSS3** – Styling, Flexbox, Grid, Responsive Layout  
-- **JavaScript** – Optional interactive elements (navbar scroll, future enhancements)  
-- **Boxicons** – Icon library for navigation and social icons  
-- **Google Maps Embed** – For location display
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
 
 ---
+
+## 💻 About Royal Restaurant Website
+
+- Designed as a **restaurant website interface**  
+- Includes sections like **home, menu, about, and contact**  
+- Focused on **clean layout and visual hierarchy**  
+- Built with **responsive and user-friendly design**  
+- Highlights **real-world website structure and UI patterns**  
+
+---
+
+## 🌱 Learning & Growth
+
+- 🎨 Improving **UI/UX design skills**  
+- 🌐 Strengthening **responsive layout development**  
+- 💻 Building **real-world business website interfaces**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
